@@ -1,12 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+
+import "./App.css";
+
+// Components
+import HomePage from "./pages/homepage/homepage.component";
+import SignInSignUpPage from "./pages/sign-in/sign-in-and-sign-up.component";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Massanger App</h1>
+        <HomePage />
+        <SignInSignUpPage />
       </header>
     </div>
   );

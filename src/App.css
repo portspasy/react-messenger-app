@@ -11,3 +11,8 @@ a {
   text-decoration: none;
   color: #000;
 }
+
+/* Use this color for main color! */
+.button-color { 
+  background-color: #06d19c;
+}
