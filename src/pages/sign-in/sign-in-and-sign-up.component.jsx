@@ -1,14 +1,25 @@
 import React from "react";
 
+// Ant Design Style
+import "antd/dist/antd.css";
 import "./sign-in-and-sign-up.style.scss";
 
+// Ant Design Components
+import { Row, Col } from "antd";
+
 import SignIn from "../../components/sign-in/sign-in.component";
-import { ReactComponent as ImageSignIn } from "../../assets/image01.svg";
+import { ReactComponent as ImageSignIn } from "../../assets/image02.svg";
 
 const SignInSignUpPage = () => (
   <div className="sign-in-and-sign-up">
-    <ImageSignIn />
-    <SignIn />
+    <Row>
+      <Col className="gutter-row" sm={24} md={12} lg={16}>
+        <ImageSignIn />
+      </Col>
+      <Col className="gutter-row" sm={24} md={12} lg={8}>
+        <SignIn />
+      </Col>
+    </Row>
   </div>
 );
 
