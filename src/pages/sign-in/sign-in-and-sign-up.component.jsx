@@ -13,10 +13,10 @@ import { ReactComponent as ImageSignIn } from "../../assets/image02.svg";
 const SignInSignUpPage = () => (
   <div className="sign-in-and-sign-up">
     <Row>
-      <Col className="gutter-row" sm={24} md={12} lg={16}>
-        <ImageSignIn />
+      <Col className="sign-in-img" sm={24} md={12} lg={16}>
+          <ImageSignIn />
       </Col>
-      <Col className="gutter-row" sm={24} md={12} lg={8}>
+      <Col className="sign-in-form" sm={24} md={12} lg={8}>
         <SignIn />
       </Col>
     </Row>
