@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/react-messenger-app/static/css/main.446ea1e9.chunk.css",
-    "main.js": "/react-messenger-app/static/js/main.f9bab270.chunk.js",
-    "main.js.map": "/react-messenger-app/static/js/main.f9bab270.chunk.js.map",
+    "main.css": "/react-messenger-app/static/css/main.3208ae13.chunk.css",
+    "main.js": "/react-messenger-app/static/js/main.610739b8.chunk.js",
+    "main.js.map": "/react-messenger-app/static/js/main.610739b8.chunk.js.map",
     "runtime-main.js": "/react-messenger-app/static/js/runtime-main.70f9c26f.js",
     "runtime-main.js.map": "/react-messenger-app/static/js/runtime-main.70f9c26f.js.map",
-    "static/js/2.0d45638e.chunk.js": "/react-messenger-app/static/js/2.0d45638e.chunk.js",
-    "static/js/2.0d45638e.chunk.js.map": "/react-messenger-app/static/js/2.0d45638e.chunk.js.map",
+    "static/css/2.563af9af.chunk.css": "/react-messenger-app/static/css/2.563af9af.chunk.css",
+    "static/js/2.c47ca399.chunk.js": "/react-messenger-app/static/js/2.c47ca399.chunk.js",
+    "static/js/2.c47ca399.chunk.js.map": "/react-messenger-app/static/js/2.c47ca399.chunk.js.map",
     "index.html": "/react-messenger-app/index.html",
-    "precache-manifest.d55dc569b03b3fb336c3a0e4da8c7b36.js": "/react-messenger-app/precache-manifest.d55dc569b03b3fb336c3a0e4da8c7b36.js",
+    "precache-manifest.f509c10e0cb468b5677f50dc97d736ae.js": "/react-messenger-app/precache-manifest.f509c10e0cb468b5677f50dc97d736ae.js",
     "service-worker.js": "/react-messenger-app/service-worker.js",
-    "static/css/main.446ea1e9.chunk.css.map": "/react-messenger-app/static/css/main.446ea1e9.chunk.css.map",
-    "static/js/2.0d45638e.chunk.js.LICENSE.txt": "/react-messenger-app/static/js/2.0d45638e.chunk.js.LICENSE.txt",
-    "static/media/image01.064b78ff.svg": "/react-messenger-app/static/media/image01.064b78ff.svg"
+    "static/css/2.563af9af.chunk.css.map": "/react-messenger-app/static/css/2.563af9af.chunk.css.map",
+    "static/css/main.3208ae13.chunk.css.map": "/react-messenger-app/static/css/main.3208ae13.chunk.css.map",
+    "static/js/2.c47ca399.chunk.js.LICENSE.txt": "/react-messenger-app/static/js/2.c47ca399.chunk.js.LICENSE.txt",
+    "static/media/image02.a032523b.svg": "/react-messenger-app/static/media/image02.a032523b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.70f9c26f.js",
-    "static/js/2.0d45638e.chunk.js",
-    "static/css/main.446ea1e9.chunk.css",
-    "static/js/main.f9bab270.chunk.js"
+    "static/css/2.563af9af.chunk.css",
+    "static/js/2.c47ca399.chunk.js",
+    "static/css/main.3208ae13.chunk.css",
+    "static/js/main.610739b8.chunk.js"
   ]
 }
