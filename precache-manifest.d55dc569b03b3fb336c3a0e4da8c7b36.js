@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aab67249ad2c5808cc96d95e70605799",
+    "revision": "7acd155d0bf41d01c71bb835a5f9d6d3",
     "url": "/react-messenger-app/index.html"
   },
   {
-    "revision": "7eb019cffb54d9b2982f",
-    "url": "/react-messenger-app/static/css/main.ff68ff80.chunk.css"
+    "revision": "b0752ad37bb68889ca0e",
+    "url": "/react-messenger-app/static/css/main.446ea1e9.chunk.css"
   },
   {
     "revision": "e44324837d3528bcce51",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-messenger-app/static/js/2.0d45638e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7eb019cffb54d9b2982f",
-    "url": "/react-messenger-app/static/js/main.ffb086aa.chunk.js"
+    "revision": "b0752ad37bb68889ca0e",
+    "url": "/react-messenger-app/static/js/main.f9bab270.chunk.js"
   },
   {
     "revision": "337273a69ba11b2c8ded",

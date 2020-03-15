@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-messenger-app/static/css/main.ff68ff80.chunk.css",
-    "main.js": "/react-messenger-app/static/js/main.ffb086aa.chunk.js",
-    "main.js.map": "/react-messenger-app/static/js/main.ffb086aa.chunk.js.map",
+    "main.css": "/react-messenger-app/static/css/main.446ea1e9.chunk.css",
+    "main.js": "/react-messenger-app/static/js/main.f9bab270.chunk.js",
+    "main.js.map": "/react-messenger-app/static/js/main.f9bab270.chunk.js.map",
     "runtime-main.js": "/react-messenger-app/static/js/runtime-main.70f9c26f.js",
     "runtime-main.js.map": "/react-messenger-app/static/js/runtime-main.70f9c26f.js.map",
     "static/js/2.0d45638e.chunk.js": "/react-messenger-app/static/js/2.0d45638e.chunk.js",
     "static/js/2.0d45638e.chunk.js.map": "/react-messenger-app/static/js/2.0d45638e.chunk.js.map",
     "index.html": "/react-messenger-app/index.html",
-    "precache-manifest.c14ccf8b6c5452f42fa66f2f4d30c714.js": "/react-messenger-app/precache-manifest.c14ccf8b6c5452f42fa66f2f4d30c714.js",
+    "precache-manifest.d55dc569b03b3fb336c3a0e4da8c7b36.js": "/react-messenger-app/precache-manifest.d55dc569b03b3fb336c3a0e4da8c7b36.js",
     "service-worker.js": "/react-messenger-app/service-worker.js",
-    "static/css/main.ff68ff80.chunk.css.map": "/react-messenger-app/static/css/main.ff68ff80.chunk.css.map",
+    "static/css/main.446ea1e9.chunk.css.map": "/react-messenger-app/static/css/main.446ea1e9.chunk.css.map",
     "static/js/2.0d45638e.chunk.js.LICENSE.txt": "/react-messenger-app/static/js/2.0d45638e.chunk.js.LICENSE.txt",
     "static/media/image01.064b78ff.svg": "/react-messenger-app/static/media/image01.064b78ff.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.70f9c26f.js",
     "static/js/2.0d45638e.chunk.js",
-    "static/css/main.ff68ff80.chunk.css",
-    "static/js/main.ffb086aa.chunk.js"
+    "static/css/main.446ea1e9.chunk.css",
+    "static/js/main.f9bab270.chunk.js"
   ]
 }
